@@ -55,7 +55,8 @@ i = 0
 while i < movies_collection.length do 
   aoh << movie_with_director_name(name, movies_collection[i])
   i += 1 
-end 
+end
+puts aoh
 aoh
 end
 
