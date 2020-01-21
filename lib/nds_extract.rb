@@ -86,6 +86,7 @@ while i < collection.length do
   end
   i += 1 
 end 
+puts hash
 hash 
 end
 
@@ -119,6 +120,7 @@ while i < source.length do
   end 
   i += 1 
 end 
+puts array
 array 
 end
 
